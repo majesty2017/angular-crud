@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand",
+      "date": "2023-02-26T00:00:00.000Z",
+      "price": "10",
+      "comment": "This is a fresh apple",
+      "id": 1
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Brand",
+      "date": "2023-02-26T00:00:00.000Z",
+      "price": "20",
+      "comment": "Fresh banana for your health",
+      "id": 2
+    },
+    {
+      "productName": "Pepper",
+      "category": "Vegetables",
+      "freshness": "Brand",
+      "date": "2023-02-26T00:00:00.000Z",
+      "price": "12",
+      "comment": "Fresh pepper for your sauce",
+      "id": 3
+    },
+    {
+      "productName": "iPhone 12",
+      "category": "Eclectronics",
+      "freshness": "Used",
+      "date": "2023-02-26T00:00:00.000Z",
+      "price": "3200",
+      "comment": "Slightly use iPhone 12",
+      "id": 4
+    },
+    {
+      "productName": "Laptop",
+      "category": "Eclectronics",
+      "freshness": "Refurbished",
+      "date": "2023-02-27T00:00:00.000Z",
+      "price": "3000",
+      "comment": "This refurbished laptop",
+      "id": 5
+    },
+    {
+      "productName": "Test",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "date": "2023-02-27T00:00:00.000Z",
+      "price": "122",
+      "comment": "test",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
